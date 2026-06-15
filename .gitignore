@@ -31,6 +31,8 @@ MANIFEST
 faq.*
 faq*.*
 faq.db*
+faq.db-shm
+faq.db-wal
 *.db-shm
 *.db-wal
 
